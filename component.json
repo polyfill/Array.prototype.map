@@ -1,0 +1,13 @@
+{
+  "name": "Array.prototype.map",
+  "repo": "polyfill/Array.prototype.map",
+  "description": "Array.prototype.map",
+  "version": "0.0.1",
+  "keywords": [],
+  "license": "MIT",
+  "main": "component.js",
+  "scripts": [
+    "component.js",
+    "Array.prototype.map.js"
+  ]
+}
