@@ -1,1 +1,1 @@
-require('Array.prototype.map');
+require('./Array.prototype.map');
